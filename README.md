@@ -2,6 +2,13 @@
 
 The purpose of this project is to demo the testing of rest api's in python.
 
+Github rest api is used for this demo. This is an example of one of the github rest api's.
+
+Performing a get on this url will retrieve all the publicly available for user "anuradha-9d"
+
+https://api.github.com/users/anuradha-9d/gists
+
+
 #Install Instructions
 
 Clone the github project
