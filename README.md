@@ -6,6 +6,8 @@ Github rest api is used for this demo. This is an example of one of the github r
 
 Performing a get on this url will retrieve all the publicly available for user "anuradha-9d"
 
+For invoking Rest-API's requests module has been used, ConfigParser module has been used for reading the config settings and test data.
+
 https://api.github.com/users/anuradha-9d/gists
 
 
